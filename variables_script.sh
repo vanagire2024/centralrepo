@@ -19,3 +19,5 @@ HOSTNAME=$(hostname)
 KERNEL=$(uname)
 
 echo "name of the host is $HOSTNAME and OS is $KERNEL"
+
+New line is been updated
